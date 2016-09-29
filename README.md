@@ -10,3 +10,7 @@ Then jump to the project file and run the command
 `scrapy crawl google
 `
 
+The result contains the following columns:
+ 
+ `app_name`, `app_category`, `developer`, `reviewer_name`, `reviewer_link`, `title`,
+                `date`, `content`, `rank`

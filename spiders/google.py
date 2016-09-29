@@ -4,7 +4,7 @@ from scrapy.contrib.spiders import CrawlSpider, Rule
 from scrapy.linkextractors.sgml import SgmlLinkExtractor
 from scrapy.selector import Selector
 
-from GooglePlay.items import *
+from items import *
 
 
 class GoogleSpider(CrawlSpider):
