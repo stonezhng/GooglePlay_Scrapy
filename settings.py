@@ -16,10 +16,10 @@ NEWSPIDER_MODULE = 'GooglePlay.spiders'
 LOG_LEVEL = 'INFO'
 
 # start MySQL database configure setting
-MYSQL_HOST = '127.0.0.1'
-MYSQL_DBNAME = 'googleplay'
-MYSQL_USER = 'root'
-MYSQL_PASSWD = '961113'
+MYSQL_HOST = ''
+MYSQL_DBNAME = ''
+MYSQL_USER = ''
+MYSQL_PASSWD = ''
 MYSQL_PORT = 3306
 # end of MySQL database configure setting
 
