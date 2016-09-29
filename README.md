@@ -1,7 +1,12 @@
 # GooglePlay_Scrapy
-fetch all the reviews on the GooglePlay App stores based on Scrapy
-
-jump to the project file and run the command
+Fetch all the reviews on the GooglePlay App stores based on Scrapy
 
 
-scrapy crawl google
+You should first fill in the blanks in settings.py about the information of the database 
+
+Then jump to the project file and run the command
+
+
+`scrapy crawl google
+`
+
